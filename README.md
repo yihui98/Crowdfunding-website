@@ -5,4 +5,4 @@ Users have to log in to create/donate to other projects
 Files are inside a Project folder
 
 
-Website Demonstration: https://vimeo.com/user126389718/review/475317274/cfc9541cd2
+Website Demonstration: https://vimeo.com/475317274
